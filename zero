@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/*int main()
+{
+	printf("Hello world!\n");
+	return 0;
+}*/
+
+int main()
+{
+	int sum = 0;
+	sum = 1 + 1;
+	printf("1+1=%d", sum);
+	return 0;
+}
